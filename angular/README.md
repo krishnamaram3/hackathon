@@ -16,5 +16,5 @@ CREATE TABLE hackathon.teams(
 	member1 VARCHAR(25),
 	member2 VARCHAR(25),
 	member3 VARCHAR(25)
-                );
+	);
 ```
