@@ -7,4 +7,4 @@ Database: hackathon
 
 Table: teams
 
-Field: team_name, member1, member2, member3
+Fields: team_name, member1, member2, member3
