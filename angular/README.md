@@ -9,12 +9,12 @@ Table: teams
 
 Fields: team_name, member1, member2, member3
 
-example table 
+Example Table 
 ```
 CREATE TABLE hackathon.teams(
-    team_name VARCHAR(25) PRIMARY KEY,
-		member1 VARCHAR(25),
-		member2 VARCHAR(25),
-		member3 VARCHAR(25)
+	team_name VARCHAR(25) PRIMARY KEY,
+	member1 VARCHAR(25),
+	member2 VARCHAR(25),
+	member3 VARCHAR(25)
                 );
 ```
